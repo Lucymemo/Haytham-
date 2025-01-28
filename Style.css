@@ -25,3 +25,17 @@ img {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     margin: 20px auto;
 }
+/* ... باقي أنماط CSS */
+
+.love-message {
+    font-size: 30px;
+    color: #f00; /* لون أحمر */
+    text-align: center;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
