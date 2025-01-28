@@ -1,0 +1,27 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #007bff;
+    font-size: 36px;
+}
+
+p {
+    color: #333;
+    font-size: 18px;
+}
+
+video {
+    border: 1px solid #ccc;
+    margin: 20px auto;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+}
